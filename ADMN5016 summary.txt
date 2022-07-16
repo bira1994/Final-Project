@@ -1,0 +1,8 @@
+Data set: Perfume Data Set
+
+Description and Summary:
+
+1. With the help of machine learning tools, we can formalize the Perfume Data. 
+2. We can analyze various flavours of the perfume based on the number of times the measurement of odor meter was taken. There are a total of 28 values for each flavour of perfume with different values each.
+3. By further implementing machine learning tools we can exactly formulate the total percentage of the above-said items based on the measurements and this 
+   helps in planning what flavours to use based on a particular brand that needs it's scent to be of a specific type.
